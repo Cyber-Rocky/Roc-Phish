@@ -40,7 +40,7 @@ bash termux.sh [For Termux]
 
 bash roc-phish.sh
 
-# [For Mask-links Create]
+# [For Mask-links Create command]
 
 bash mask_link.sh 
 
