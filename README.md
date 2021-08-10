@@ -2,7 +2,7 @@
 
 Advanced Social phishing tools
 
-#Compatibility
+# Compatibility
 
 .Ubuntu
 
@@ -10,7 +10,7 @@ Advanced Social phishing tools
 
 .Any Debian/Ubuntu based OS
 
-#Installation
+# Installation
 
 apt update && apt upgrade -y
 
@@ -28,12 +28,13 @@ bash linux.sh  [For Linux]
 
 bash termux.sh [For Termux]
 
-#Usage
+# Usage
 
 bash roc-phish.sh
 
-#Project Leader: https://github.com/Cyber-Rocky
+# Project Leader: https://github.com/Cyber-Rocky
 
+# ![png-transparent-tea-leaf-circle-wreath-green-circle-border-green-leafed-plant-border-frame-leaf-thumbnail](https://user-images.githubusercontent.com/87198872/128906858-e561d585-ed91-4c12-bc2f-bb54aa8e533d.png)
 Websites:
 
 @Youtube: https://www.youtube.com/channel/UCXFWUKjfVQsx79BIYyUtCOg
